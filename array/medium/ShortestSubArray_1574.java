@@ -35,6 +35,7 @@ Approach
 5) Return the result which is the minimum number of elements we need to remove.
 
  */
+
 package array.medium;
 
 public class ShortestSubArray_1574 {
